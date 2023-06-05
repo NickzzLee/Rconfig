@@ -1,2 +1,0 @@
-# Rconfig
-Mian Project
